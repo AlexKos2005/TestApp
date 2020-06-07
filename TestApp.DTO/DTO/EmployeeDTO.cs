@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace TestApp.DTO.DTO
+namespace TestApp.DAL.DTO
 {
    public class EmployeeDTO
     {
