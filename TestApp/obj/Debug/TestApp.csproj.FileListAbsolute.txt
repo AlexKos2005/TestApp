@@ -1,0 +1,15 @@
+D:\.Net\Git\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\.Net\Git\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\.Net\Git\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\.Net\Git\TestApp\TestApp\obj\Debug\App.g.cs
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.g.resources
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\.Net\Git\TestApp\TestApp\obj\Debug\TestApp.pdb
+D:\.Net\Git\TestApp\TestApp\obj\Debug\Views\MainWindowView.g.cs
+D:\.Net\Git\TestApp\TestApp\obj\Debug\Views\MainWindowView.baml
